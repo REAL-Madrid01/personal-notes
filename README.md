@@ -1,2 +1,3 @@
 # personal-notes
-notes create by Zhiqi
+## Used for recording daily & specific notes
+## Focus on ML and large models, mostly R and Python.
